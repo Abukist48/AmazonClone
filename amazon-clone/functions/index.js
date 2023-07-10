@@ -29,7 +29,7 @@ app.post("/payments/create", async (request, response) => {
 	}
 });
 
-app.listen(3000, (error) => {
+app.listen(10000, (error) => {
 	if (error) {
 		console.log(error);
 	} else {
