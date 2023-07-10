@@ -1,0 +1,22 @@
+.FourWrapper {
+    width: 350px;
+	display: block;
+    background-color: red;
+
+}
+.fourProduct {
+	display: flex;
+}
+img {
+	/* display: block; */
+	width: 100px;
+	object-fit: contain;
+}
+.images {
+	display: block;
+}
+/*
+
+
+
+*/

@@ -1,0 +1,17 @@
+/* import 'bootstrap/dist/css/bootstrap.min.css'; */
+.home_image {
+	width: 100%;
+	z-index: -1;
+	margin-bottom: -200px;
+	/* -webkit-mask-image: linear-gradient(
+		to bottom,
+		rgb(88, 84, 84),
+		rgba(78, 74, 74, 0)
+	); */
+}
+.home_row {
+	display: flex;
+	z-index: 1;
+	margin: 0 5px;
+	/* background-color: #d3d0d0; */
+}
