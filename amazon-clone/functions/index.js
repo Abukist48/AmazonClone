@@ -33,7 +33,7 @@ app.listen(10000, (error) => {
 	if (error) {
 		console.log(error);
 	} else {
-		console.log("connected to 3000");
+		console.log("connected to 10000");
 	}
 });
 // exports.api = functions.https.onRequest(app);
